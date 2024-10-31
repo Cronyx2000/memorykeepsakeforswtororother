@@ -1,45 +1,77 @@
-![Mitth'kade'val (Kade)](https://github.com/Cronyx2000/memorykeepsakeforswtororother/blob/e154f926b5d6ea67c3e55d16e6f2983f46e2e054/20241024183143_1.jpg?raw=true)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mitth'kade'val (Kade)</title>
+</head>
+<body>
+    <h1>Mitth'kade'val (Kade)</h1>
 
-Mitth'kade'val (Kade)
+    <img src="https://github.com/Cronyx2000/memorykeepsakeforswtororother/blob/e154f926b5d6ea67c3e55d16e6f2983f46e2e054/20241024183143_1.jpg?raw=true" alt="Mitth'kade'val (Kade)">
+    <p><em>Brief image description here.</em></p>
 
-### Basic Information
-- **Full Name**: Mitth'kade'val
-- **Alias/Title**: Kade
-- **Species**: Chiss
-- **Gender**: Female
-- **Affiliation**: Eternal Alliance, Independant
-- **Occupation**: Spy, Vigilante
+    <h2>Basic Information</h2>
+    <ul>
+        <li><strong>Full Name</strong>: Mitth'kade'val</li>
+        <li><strong>Alias/Title</strong>: Kade</li>
+        <li><strong>Species</strong>: Chiss</li>
+        <li><strong>Gender</strong>: Female</li>
+        <li><strong>Affiliation</strong>: Eternal Alliance, Independent</li>
+        <li><strong>Occupation</strong>: Spy, Vigilante</li>
+    </ul>
 
-### Physical Description
-- **Age**: 36
-- **Appearance**: She has blue skin, thag of a Chiss. Her black hair has soft waves, usually worn tied up or cut short at shoulder length. her bright red eyes are also typical of all Chiss. She has a fit, athletic build.
-- **Notable Traits**: Standing at 6’4’’, she is taller than many of her peers. She has an Imperial Accent, like most Chiss, but is adept at speaking fluently in other accents. She typically wears bold red lipstick and dark eyeshadow, contrasting with her blue skin.
+    <h2>Physical Description</h2>
+    <ul>
+        <li><strong>Age</strong>: 36</li>
+        <li><strong>Appearance</strong>: Blue skin typical of a Chiss. Black hair with soft waves, usually worn tied up or cut short at shoulder length. Bright red eyes, typical of Chiss. Fit, athletic build.</li>
+        <li><strong>Notable Traits</strong>: Stands at 6’4’’. Speaks with an Imperial accent but can adapt to others. Often wears bold red lipstick and dark eyeshadow to contrast her blue skin.</li>
+    </ul>
 
-### Background
-- **Origin/Homeworld**: Kade was born on Csilla, and was raised there until she was nearly an adult.
-- **Childhood**: 
-- **Early Adulthood**: 
+    <h2>Personality</h2>
+    <p>Kade is resilient and resourceful. Often introspective and strategic, she operates in morally gray areas, making tough choices that weigh on her deeply. Despite her hardened exterior and fierce independence, Kade’s loyalty to those she trusts is unshakable. She has a strong sense of justice, driving her desire to undermine tyranny where she can.</p>
+    
+    <h3>Strengths</h3>
+    <ul>
+        <li>Strong mental fortitude, difficult to break.</li>
+        <li>Deep sense of justice, making her a determined protector of those who are defenseless.</li>
+        <li>Master spy with high intuition, quick thinking, and fast learning.</li>
+    </ul>
 
-### Personality
-- **Personality Summary**: Kade is resilient and resourceful. Often introspective and strategic, she operates in morally gray areas, making tough choices that weigh on her deeply. Despite her hardened exterior and fierce independence, Kade’s loyalty to those she trusts is unshakable. She also has a strong sense of justice, which drives a desire to undermine tyranny where she can.
-- **Strengths**: She has a strong mental fortitude, and cannot easily be broken. Her sense of justice makes her a determined fighter for those who may be defenseless, or those closest to her. She’s a master spy and is very intuitive in situations she may not be familiar with. She’s a quick thinker and a fast learner. Holds firm to her personal values despite operating in morally gray areas.
-- **Weaknesses**: Her years as a spy, and her type of work, has caused her to be emotionally detached in many situations. She often comes off as uncaring, emotionless, or distant. Her time working alone and creating fake bonds in her past has caused her to become quite the loner, and she can be hard to befriend, unlikely to open up to people she doesn't trust.
+    <h3>Weaknesses</h3>
+    <ul>
+        <li>Emotionally detached due to her work.</li>
+        <li>Often comes across as uncaring or distant.</li>
+        <li>Hard to befriend due to her loner tendencies and trust issues.</li>
+    </ul>
 
-### Abilities and Skills
-- **Force Abilities**: 
-- **Combat Skills**: 
-- **Other Skills**: 
+    <h2>Background</h2>
+    <ul>
+        <li><strong>Origin/Homeworld</strong>: Csilla</li>
+        <li><strong>Childhood</strong>: Details here.</li>
+        <li><strong>Early Adulthood</strong>: Details here.</li>
+    </ul>
 
-### Story Role
-- **Primary Role in Story**: 
-- **Current Objectives**: 
-- **Key Conflicts**: 
-  
-### Additional Notes
-- **Allies and Relationships**: 
-- **Miscellaneous**:
-- **Known Enemies**: 
-- **Loyalty/Ideals**: 
+    <h2>Abilities and Skills</h2>
+    <ul>
+        <li><strong>Force Abilities</strong>: Details here.</li>
+        <li><strong>Combat Skills</strong>: Details here.</li>
+        <li><strong>Other Skills</strong>: Details here.</li>
+    </ul>
 
+    <h2>Story Role</h2>
+    <ul>
+        <li><strong>Primary Role in Story</strong>: Details here.</li>
+        <li><strong>Current Objectives</strong>: Details here.</li>
+        <li><strong>Key Conflicts</strong>: Details here.</li>
+    </ul>
 
-
+    <h2>Additional Notes</h2>
+    <ul>
+        <li><strong>Allies and Relationships</strong>: Details here.</li>
+        <li><strong>Miscellaneous</strong>: Details here.</li>
+        <li><strong>Known Enemies</strong>: Details here.</li>
+        <li><strong>Loyalty/Ideals</strong>: Details here.</li>
+    </ul>
+</body>
+</html>
