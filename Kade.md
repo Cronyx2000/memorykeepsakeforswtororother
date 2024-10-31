@@ -12,11 +12,11 @@ Mitth'kade'val (Kade)
 
 ### Physical Description
 - **Age**: 36
-- **Appearance**: Deep blue skin | Black hair, usually worn tied up or cut short at shoulder length | Bright Red eyes typical of all Chiss | Fit, athletic build
-- **Notable Traits**: Standing at 6’4’’, she is taller than many of her peers | She has an Imperial Accent, like most Chiss
+- **Appearance**: She has blue skin, thag of a Chiss. Her black hair has soft waves, usually worn tied up or cut short at shoulder length. her bright red eyes are also typical of all Chiss. She has a fit, athletic build.
+- **Notable Traits**: Standing at 6’4’’, she is taller than many of her peers. She has an Imperial Accent, like most Chiss, but is adept at speaking fluently in other accents. She typically wears bold red lipstick and dark eyeshadow, contrasting with her blue skin.
 
 ### Background
-- **Origin/Homeworld**: Csilla
+- **Origin/Homeworld**: Kade was born on Csilla, and was raised there until she was nearly an adult.
 - **Childhood**: 
 - **Early Adulthood**: 
 
