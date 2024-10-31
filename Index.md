@@ -1,5 +1,3 @@
-[Return to Home Page](https://cronyx2000.github.io/memorykeepsakeforswtororother/)
-
 # Character List
 
 - [Mitth'kade'val (Kade)](Kade.html) | Spy, Vigilante, Double Agent
