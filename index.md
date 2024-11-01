@@ -1,6 +1,6 @@
 # Character List
 
-- [Mitth'kade'val (Kade)](https://cronyx2000.github.io/memorykeepsakeforswtororother/Kade.html) - Spy, Vigilante, Double Agent
+- [Mitth'kade'val (Kade)](https://cronyx2000.github.io/memorykeepsakeforswtororother/Kade.html) \| Spy, Vigilante, Double Agent
 - Datura Aedryn \| Light-Side Sith
 - Qar'rah Aedryn \| Jedi Master, Grand Healer
 - Ciaran Sol \| Jedi, Eternal Alliance Commander
