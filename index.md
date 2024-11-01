@@ -14,7 +14,7 @@
 - Carta Heelo \| Former Refugee Liberator, Anti-Imperial Fighter
 - Fey'lu \| Smuggler, Contraband Collector
 - Sahira Lorale \| Force-Sensitive Miraluka Mystic
-- Selaren Vizhan | Historian, Force Spirit-Talker
+- Selaren Vizhan \| Historian, Force Spirit-Talker
 - Mastrodynesus (All-Killer) \| Ancient Sith, Soul-bound Destroyer
 - Myrmadous \| Sith Lord, All-Killer's Disciple
 - Yamio Zoja \| Sith Sorceress, Recluse
